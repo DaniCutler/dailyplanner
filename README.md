@@ -2,6 +2,11 @@
 This is just a simple 9-5 workday planner. If the hour is grey it is past, if it is present it is red and future will be green. 
 User is able to log whatever information is neccessary and once they hit save it will save into local storage. 
 
+Daily Planner working link: https://danicutler.github.io/dailyplanner/.
+
+
+
+
 
 
 
