@@ -1,17 +1,3 @@
-
-This is just a simple 9-5 workday planner. If the hour is grey it is past, if it is present it is red and future will be green. 
-User is able to log whatever information is neccessary and once they hit save it will save into local storage. 
-
-Daily Planner working link: https://danicutler.github.io/dailyplanner/.
-
-
-
-
-
-
-
-
-
 05 Third-Party APIs: Work Day Scheduler
 Your Task
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
