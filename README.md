@@ -1,3 +1,14 @@
+A simple 9-5 workday schedule planner. The page loads and user has present month day and time. User is able to see past (grey), present (red) and future(green) schedule. User is also able to make changes in the sched and save into local Storage.
+
+working page link: https://danicutler.github.io/workdayplanner/
+
+
+
+
+
+
+
+
 05 Third-Party APIs: Work Day Scheduler
 Your Task
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
